@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @MTaylor1776
+- 👋 Hi, I’m Matt, or @MTaylor1776
 - 👀 I’m interested in creative writing, coding, warhammer, artificial intelligence, politics, and people!
 - 🌱 I’m currently learning to intentionally improve my python skills!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @AuthorMTay on X; Authormatthewtaylor.com; or [Linkedin.com/in/matthew-taylor-1776 ](https://www.linkedin.com/in/matthew-taylor1776/) 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I play Death Guard, Drukhari, Genestealer Cult, and Astra Militarum in Warhammer 40k ... and I am a published scifi/fantasy author!
 
 <!---
 MTaylor1776/MTaylor1776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
